@@ -8,13 +8,15 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Abdul Dridi # add your name
-author-img:  # add your photo
-about-author: A Computer Science student at the University Of Manchester. # add description
+author-img:  myCat.jpg # add your photo
+about-author: A Computer Science student at the University Of Manchester. Interested in NLP & Machine Learning, Weightlifting and reading books! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
+social-goodreads: 77881457-abdurrahman-dridi # add your GoodReads handle
 social-github: AbdulDridi # add your Github handle
 social-linkedin: abdurrahman-dridi-0203aa12a # add your Linkedin handle
 social-email: abdurrahmandridi@gmail.com # add your Email address
+cv-file: AbdurrahmanDridiCV.pdf # add your cv/resume file
 
 # Disqus
 discus-identifier:  abdurrahmandridi # add your discus identifier
